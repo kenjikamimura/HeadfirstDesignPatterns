@@ -1,4 +1,6 @@
-﻿using System;
+﻿using _1_intro.Ducks;
+using _1_intro.Flying;
+using System;
 
 namespace _1_intro
 {
@@ -6,7 +8,14 @@ namespace _1_intro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Duck mallard = new MallardDuck();
+            // mallard.performFly();
+            // mallard.performQuack();
+
+            Duck model = new ModelDuck();
+            model.performFly();
+            model.setFlyBehavior(new FlyRocketPowered());
+            model.performFly();
         }
     }
 }

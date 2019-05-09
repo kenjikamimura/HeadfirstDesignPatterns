@@ -1,4 +1,4 @@
-namespace _1_intro
+namespace _1_intro.Flying
 {
     public interface IFlyBehavior
     {

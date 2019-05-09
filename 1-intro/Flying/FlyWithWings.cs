@@ -1,6 +1,6 @@
 using System;
 
-namespace _1_intro
+namespace _1_intro.Flying
 {
     public class FlyWithWings : IFlyBehavior{
         public void fly(){

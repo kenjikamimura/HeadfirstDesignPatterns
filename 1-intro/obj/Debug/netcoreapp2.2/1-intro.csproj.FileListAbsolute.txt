@@ -1,0 +1,11 @@
+C:\personal-dev\headfirstDesignPatterns\1-intro\bin\Debug\netcoreapp2.2\1-intro.deps.json
+C:\personal-dev\headfirstDesignPatterns\1-intro\bin\Debug\netcoreapp2.2\1-intro.runtimeconfig.json
+C:\personal-dev\headfirstDesignPatterns\1-intro\bin\Debug\netcoreapp2.2\1-intro.runtimeconfig.dev.json
+C:\personal-dev\headfirstDesignPatterns\1-intro\bin\Debug\netcoreapp2.2\1-intro.dll
+C:\personal-dev\headfirstDesignPatterns\1-intro\bin\Debug\netcoreapp2.2\1-intro.pdb
+C:\personal-dev\headfirstDesignPatterns\1-intro\obj\Debug\netcoreapp2.2\1-intro.csprojAssemblyReference.cache
+C:\personal-dev\headfirstDesignPatterns\1-intro\obj\Debug\netcoreapp2.2\1-intro.csproj.CoreCompileInputs.cache
+C:\personal-dev\headfirstDesignPatterns\1-intro\obj\Debug\netcoreapp2.2\1-intro.AssemblyInfoInputs.cache
+C:\personal-dev\headfirstDesignPatterns\1-intro\obj\Debug\netcoreapp2.2\1-intro.AssemblyInfo.cs
+C:\personal-dev\headfirstDesignPatterns\1-intro\obj\Debug\netcoreapp2.2\1-intro.dll
+C:\personal-dev\headfirstDesignPatterns\1-intro\obj\Debug\netcoreapp2.2\1-intro.pdb
